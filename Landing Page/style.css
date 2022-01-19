@@ -1,0 +1,22 @@
+body {
+    background-image: 20484908.png;
+}
+
+.cabecalho{
+    display: initial;
+    background-image: url("Retângulo\ 1.png");
+    width: 1938px;
+    height: 218px;
+    margin-bottom: -30px;
+
+
+}
+
+.main{
+    margin-right: -20px;
+    margin-left: -20px;
+    background-image: url("20484908.png");
+    width: 1920px;
+    height: 1000px;
+
+}
