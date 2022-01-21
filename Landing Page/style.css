@@ -3,11 +3,12 @@ body {
 }
 
 .cabecalho{
-    display: initial;
+    display: flex;
     background-image: url("Retângulo\ 1.png");
-    width: 1938px;
-    height: 218px;
-    margin-bottom: -30px;
+    width: 1850px;
+    height: 100px;
+    margin-left: -17px;
+
 
 
 }
@@ -16,15 +17,7 @@ body {
     margin-right: -20px;
     margin-left: -20px;
     background-image: url("20484908.png");
-    width: 1920px;
-    height: 1000px;
-
-}
-
-.footer{
-   width:200px;
-   height:1000px;
-   background-image:url("");
-
+    width: 1850px;
+    height: 852px;
 
 }
