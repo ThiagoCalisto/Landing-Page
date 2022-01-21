@@ -5,7 +5,7 @@ body {
 .cabecalho{
     display: flex;
     background-image: url("Retângulo\ 1.png");
-    width: 1850px;
+    width: 1929px;
     height: 100px;
     margin-left: -17px;
 
@@ -17,7 +17,8 @@ body {
     margin-right: -20px;
     margin-left: -20px;
     background-image: url("20484908.png");
-    width: 1850px;
-    height: 852px;
-
+    width: 1932px;
+    height: 881px;
+    margin-bottom: -10px;
+    margin-right: -4px;
 }
